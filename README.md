@@ -6,4 +6,5 @@ Step by step process:
 5. Update or write the load_llm function with config in model_loader.py (utils>model_loader.py)
 6. Start writing and updating the agentic_workflow.py file in agent folder (create and update the stategraph with tools)
 7. Add SYSTEM_PROMPT in prompt.py file (prompt_library>prompt.py)
-8. 
+8. Write endpoints of FastAPI in main.py
+9. 
