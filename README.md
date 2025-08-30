@@ -1,5 +1,5 @@
 Step by step process:
-1. Stepup env variables or keys
+1. Setup env variables or keys
 2. Write the setup.py file
 3. Go to config>config.yaml and configure llm
 4. In utils>confi_loader.py write load_config function
