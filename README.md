@@ -1,5 +1,6 @@
 Step by step process:
-	1.	Set environment variables (API keys & secrets)
+	
+    1.	Set environment variables (API keys & secrets)
 	•	Put them in a .env file and keep it in .gitignore.
 	•	Load them in code (e.g., with python-dotenv) or from the OS.
 	
